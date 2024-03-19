@@ -8,6 +8,7 @@ This repository contains the analysis artifacts for the Uber System, employing v
 - `files.java`
 - `UMLDiagram.zargo`
 - `C4Diagram.png`
+- `Uber.pdf (class diagram)`
 
 **Trello Workflow Link:** https://trello.com/b/ATnnhR0P/lab-4-ip
 

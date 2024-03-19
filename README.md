@@ -4,10 +4,10 @@
 This repository contains the analysis artifacts for the Uber System, employing various modeling techniques to understand its architecture and components. The analysis is structured around the C4 model, which encompasses context and container. Additionally, it involves forward and reverse engineering processes to further dissect the system's structure.
 
 ### Files Included
-- `java.class`
+- `files.class`
 - `files.java`
-- `uml.zargo`
-- `c4diagram.jpg`
+- `UMLDiagram.zargo`
+- `C4Diagram.png`
 
 **Trello Workflow Link:** https://trello.com/b/ATnnhR0P/lab-4-ip
 

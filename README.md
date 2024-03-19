@@ -1,7 +1,7 @@
 # Uber System Analysis
 
 ## Overview
-This repository contains the analysis artifacts for the Uber System, employing various modeling techniques to understand its architecture and components. The analysis is structured around the C4 model, which encompasses context, container, and component diagrams. Additionally, it involves forward and reverse engineering processes to further dissect the system's structure.
+This repository contains the analysis artifacts for the Uber System, employing various modeling techniques to understand its architecture and components. The analysis is structured around the C4 model, which encompasses context and container. Additionally, it involves forward and reverse engineering processes to further dissect the system's structure.
 
 ### Files Included
 - `java.class`
@@ -15,7 +15,6 @@ This repository contains the analysis artifacts for the Uber System, employing v
 In this section, we utilize the C4 model to delineate the Uber System's architecture. Three key diagrams are produced:
 - **Context Diagram**: Illustrates the system's external dependencies and interactions, providing a high-level view of its environment.
 - **Container Diagram**: Depicts the various containers within the system and their relationships, helping to understand the overall structure at a macro level.
-- **Component Diagram**: Details the internal components of each container, elucidating their interactions and functionalities.
 
 ## 2. Forward Engineering
 Here, we leverage forward engineering techniques to translate our class diagrams created in ArgoUML into Java code. The process involves meticulously defining classes, attributes, methods, and relationships within ArgoUML, followed by generating the Java classes using the built-in functionalities. These generated Java files are then compiled to obtain the corresponding `.class` files.

@@ -9,6 +9,8 @@ This repository contains the analysis artifacts for the Uber System, employing v
 - `uml.zargo`
 - `c4diagram.jpg`
 
+**Trello Workflow Link:** https://trello.com/b/ATnnhR0P/lab-4-ip
+
 ## 1. C4 Model
 In this section, we utilize the C4 model to delineate the Uber System's architecture. Three key diagrams are produced:
 - **Context Diagram**: Illustrates the system's external dependencies and interactions, providing a high-level view of its environment.
